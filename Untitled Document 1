@@ -1,0 +1,12 @@
+1.client(react),server(express,socket.io)
+
+2.Socket
+-other sockets(require)
+-io.on,socket.on.
+-socket.emit,socket.join
+-io.to.emit
+-io.broadcast.to.emit
+-callback
+
+3.useeffect runs everytime
+-to(url)
